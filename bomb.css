@@ -1,0 +1,27 @@
+.bg-container{
+    height: 100vh;
+    background-color: rgb(6, 167, 231);
+    margin-left: 2px;
+}
+.image{
+    height: 200px;
+    width: 200px;
+    padding: 30px 100px 1px 50px;
+    margin: 10px 100px 1px 150px;
+}
+.inp{
+    margin: 150px 150px 0px 210px;
+    padding: 7px;
+    border: none;
+    border-radius: 10px;
+}
+.time{
+    margin: 20px 200px 0px 250px;
+    font-size: xx-large;
+    font-weight: bold;
+    color: white;
+}
+.bomb{
+    margin-left: 210px;
+    margin-right: 260px;
+}
